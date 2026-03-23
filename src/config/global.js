@@ -189,13 +189,160 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acuicultura',
+      significado:
+        'Actividad productiva dedicada al cultivo controlado de organismos acuáticos bajo condiciones técnicas definidas, con fines alimentarios, económicos y de sostenibilidad.',
+    },
+    {
+      termino: 'Análisis técnico',
+      significado:
+        'Proceso de interpretación de datos productivos, sanitarios y ambientales para evaluar el desempeño del cultivo y apoyar la toma de decisiones fundamentadas.',
+    },
+    {
+      termino: 'Biomasa',
+      significado:
+        'Peso total de los organismos vivos presentes en un sistema de cultivo en un momento determinado.',
+    },
+    {
+      termino: 'Buenas Prácticas Acuícolas (BPA)',
+      significado:
+        'Conjunto de principios y procedimientos técnicos orientados a garantizar una producción acuícola sostenible, segura y conforme a la normativa vigente.',
+    },
+    {
+      termino: 'Calidad del agua',
+      significado:
+        'Condición físico-química y biológica del agua que influye directamente en la salud, el crecimiento y la supervivencia de los organismos acuáticos.',
+    },
+    {
+      termino: 'Densidad de siembra',
+      significado:
+        'Cantidad de organismos sembrados por unidad de área o volumen en un sistema de cultivo acuícola.',
+    },
+    {
+      termino: 'Evaluación integral del cultivo',
+      significado:
+        'Análisis conjunto de los indicadores productivos, sanitarios y ambientales para comprender el comportamiento global del sistema acuícola.',
+    },
+    {
+      termino: 'Factor de Conversión Alimenticia (FCA)',
+      significado:
+        'Indicador que expresa la relación entre la cantidad de alimento suministrado y el incremento de biomasa obtenido, utilizado para medir la eficiencia alimenticia.',
+    },
+    {
+      termino: 'Ganancia Diaria de Peso (GDP)',
+      significado:
+        'Incremento promedio de peso por individuo en un período de tiempo determinado.',
+    },
+    {
+      termino: 'Gestión de la información productiva',
+      significado:
+        'Proceso sistemático de recolección, registro, validación y análisis de datos técnicos del cultivo acuícola.',
+    },
+    {
+      termino: 'Indicadores ambientales',
+      significado:
+        'Parámetros que permiten evaluar la calidad del entorno acuático, como oxígeno disuelto, temperatura, pH, amonio y nitritos.',
+    },
+    {
+      termino: 'Indicadores productivos',
+      significado:
+        'Indicadores que miden el rendimiento y la eficiencia del cultivo, tales como crecimiento, biomasa, supervivencia y conversión alimenticia.',
+    },
+    {
+      termino: 'Indicadores sanitarios',
+      significado:
+        'Indicadores utilizados para evaluar el estado de salud del cultivo, incluyendo morbilidad, incidencia de enfermedades y mortalidad.',
+    },
+    {
+      termino: 'Indicadores técnicos',
+      significado:
+        'Herramientas de medición cuantitativa que permiten evaluar el desempeño del cultivo acuícola desde los componentes productivo, sanitario y ambiental.',
+    },
+    {
+      termino: 'Incidencia de enfermedad',
+      significado:
+        'Número de casos nuevos de una patología identificados en un período determinado dentro del cultivo.',
+    },
+    {
+      termino: 'Matemática aplicada',
+      significado:
+        'Uso de operaciones, fórmulas y cálculos matemáticos para el análisis de datos y el cálculo de indicadores técnicos en acuicultura.',
+    },
+    {
+      termino: 'Morbilidad',
+      significado:
+        'Proporción de organismos enfermos dentro de una población acuícola en un momento o período específico.',
+    },
+    {
+      termino: 'Ofimática',
+      significado:
+        'Conjunto de herramientas digitales, como hojas de cálculo y software de análisis, utilizadas para organizar, procesar y visualizar información productiva.',
+    },
+    {
+      termino: 'Oxígeno disuelto (OD)',
+      significado:
+        'Cantidad de oxígeno disponible en el agua, esencial para la respiración y el metabolismo de los organismos acuáticos.',
+    },
+    {
+      termino: 'pH',
+      significado:
+        'Medida del grado de acidez o alcalinidad del agua, que influye en los procesos fisiológicos del cultivo.',
+    },
+    {
+      termino: 'Registros productivos',
+      significado:
+        'Formatos o documentos donde se consignan de manera sistemática los datos técnicos del cultivo acuícola.',
+    },
+    {
+      termino: 'Supervivencia (%)',
+      significado:
+        'Porcentaje de organismos vivos en relación con el total sembrado inicialmente.',
+    },
+    {
+      termino: 'Tasa de Crecimiento Específico (TCE)',
+      significado:
+        'Indicador que expresa el crecimiento diario porcentual de los organismos en función de su peso inicial y final.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de seguir y verificar la información productiva del cultivo a lo largo del tiempo mediante registros documentados y confiables.',
+    },
+    {
+      termino: 'Validación del dato',
+      significado:
+        'Proceso mediante el cual se verifica la coherencia, consistencia y confiabilidad de la información registrada.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Autoridad Nacional de Acuicultura y Pesca (AUNAP). (2023). Lineamientos para el desarrollo sostenible de la acuicultura en Colombia. AUNAP.',
+      link: 'https://www.aunap.gov.co',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2022). Normativa sanitaria para la producción y comercialización de organismos acuáticos en Colombia. ICA.',
+      link: 'https://www.ica.gov.co',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2022). El estado mundial de la pesca y la acuicultura 2022. FAO.',
+      link: 'https://www.fao.org',
+    },
+    {
+      referencia:
+        'Boyd, C. E., & Tucker, C. S. (2012). Pond aquaculture water quality management. Springer.',
+      link: '',
+    },
+    {
+      referencia:
+        'Tacon, A. G. J., & Metian, M. (2015). Feed matters: Satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1–10.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pillay, T. V. R., & Kutty, M. N. (2005). Aquaculture: Principles and practices (2nd ed.). Blackwell Publishing.',
       link: '',
     },
   ],

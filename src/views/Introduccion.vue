@@ -14,10 +14,6 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En Colombia, la empresa es una actividad económica organizada para producir bienes o prestar servicios, diferenciándose del local o la marca. Se entiende como la integración de recursos, personas y procesos orientados a generar valor bajo reglas y controles establecidos.
-    
-
-
-
 
 </template>
 
