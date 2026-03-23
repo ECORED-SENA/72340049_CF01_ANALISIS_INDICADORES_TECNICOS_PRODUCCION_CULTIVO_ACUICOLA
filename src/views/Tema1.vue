@@ -5,7 +5,18 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Indicadores técnicos de la producción acuícola 
+
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Aspectos fundamentales 
+
+    Separador
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Clasificación de los indicadores técnicos 
+    Separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Principales indicadores productivos  
  
 </template>
 

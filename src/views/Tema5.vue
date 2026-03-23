@@ -4,21 +4,15 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
-        span 2
-      h1 Interpretación de gráficos en la producción acuícola 
+        span 5
+      h1 Información base  
 
-    Separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-     h2 2.1 Tipología de gráficos aplicados en acuicultura 
 
-    Separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Análisis técnico de tendencias  
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),
