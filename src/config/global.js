@@ -134,7 +134,7 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Registros: formatos y diligenciamiento',
+            titulo: 'Recolección y registro de datos',
             hash: 't_7_1',
           },
         ],
