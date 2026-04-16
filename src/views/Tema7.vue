@@ -39,7 +39,7 @@
     .row.justify-content-center.mb-5
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
-          h5 Figura 3.
+          h5 Figura 2.
           span Diagrama de registros
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema7/img4.svg', alt='La imagen presenta un esquema conceptual sobre los registros de datos, mostrando su función como herramienta dinámica para recopilar información, realizar seguimiento a procesos, evaluar situaciones e identificar cambios. Además, organiza los registros según sus formatos y tipos, incluyendo registros de observación, automáticos y de productos de conducta, evidenciando su importancia para la gestión y análisis sistemático de la información.').m-auto
@@ -73,7 +73,7 @@
                 p.mb-0 Es fundamental seguir protocolos estandarizados para evitar errores, mantener la coherencia de los datos y facilitar su validación. Las buenas prácticas aseguran que la información sea confiable y útil para el análisis.
     p.mb-5 Se presenta un ejemplo de un formato diligenciado con el registro de indicadores técnicos del cultivo acuícola, utilizando datos del cultivo de Juan Pérez para aprender su correcto diligenciamiento.
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
-      h5 Figura 4.
+      h5 Figura 3.
       span Registro de indicadores técnicos productivos en el cultivo acuícola
     figure(data-aos="zoom-in")
       img(src='@/assets/curso/tema7/img8.svg', alt='La imagen muestra un formato de registro de indicadores técnicos productivos en acuicultura, donde se organizan datos del cultivo como población, biomasa, alimentación y crecimiento, permitiendo analizar el desempeño productivo y calcular indicadores para la toma de decisiones técnicas.').m-auto
